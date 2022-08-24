@@ -3,4 +3,5 @@
   https://git-scm.com/downloads
 
 ### Configurations of Git & Github
-
+  
+### Git not recognize issues 
